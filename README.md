@@ -1,2 +1,3 @@
 # njord
-Njord, the link checker for Kontent.ai Learn Portal
+
+Njord, the links and anchor links validity checker.
